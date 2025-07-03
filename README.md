@@ -42,7 +42,9 @@ The following business questions were addressed during the analysis:
 14. **Top 5 Products by Rating × Review Count**
 
 ## DashBoard
-![Alt text](https://github.com/Felix-Alozie/MsExcel_DSA_Amazon_Product_Review_Project/blob/main/Amazon%20Dashboard1.jpg)
+
+![Amazon Dashboard1](https://github.com/user-attachments/assets/6a5ac526-65a6-49df-bd0a-b0dabf6fbfa5)
+
 
 ### Insight 
 1. The Electronics category dominates in revenue generation with over ₦88,021 million, followed by Computers & Accessories and Health & Personal Care. These categories should be prioritized for inventory optimization, cross-promotions, and strategic advertising. Sales teams can target upselling and bundling strategies around these top-performing categories to maximize revenue.
