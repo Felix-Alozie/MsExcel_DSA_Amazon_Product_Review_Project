@@ -42,8 +42,9 @@ The following business questions were addressed during the analysis:
 14. **Top 5 Products by Rating × Review Count**
 
 ## DashBoard
-<img width="929" alt="Amazon Dashboard" src="https://github.com/user-attachments/assets/ec5fdb42-b37d-47b4-8d03-9d4e07e22774" />
 
+
+### Insight 
 1. The Electronics category dominates in revenue generation with over ₦88,021 million, followed by Computers & Accessories and Health & Personal Care. These categories should be prioritized for inventory optimization, cross-promotions, and strategic advertising. Sales teams can target upselling and bundling strategies around these top-performing categories to maximize revenue.
 2. The overall average product rating is above 4.1, indicating strong customer satisfaction. However, most ratings cluster between 3.8 and 4.6, suggesting there's room to improve product quality and customer experience, especially for items rated below 3.5. Marketing and support teams should investigate low-rated items to resolve product flaws or clarify product descriptions.
 3. There are 653 products with discounts of 50% or more, yet a noticeable decline in product ratings at these high-discount points suggests that steep discounts may not always correlate with customer satisfaction. Management should evaluate whether excessive price cuts are compromising product perception, and implement smarter markdowns tied to quality assurance.
